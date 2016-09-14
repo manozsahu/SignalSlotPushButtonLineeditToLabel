@@ -1,0 +1,10 @@
+
+mainwindow.ui
+connectButtonClose.pro
+main.cpp
+mainwindow.cpp
+mainwindow.h
+..
+connectButtonClose.pro.user
+filelist.txt
+.
